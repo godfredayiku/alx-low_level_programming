@@ -1,1 +1,1 @@
-Directory for the variables, if, else, while project
+This is the repository for C programming
