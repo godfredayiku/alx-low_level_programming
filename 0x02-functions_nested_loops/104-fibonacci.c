@@ -53,6 +53,7 @@ int main(void)
 		printf("%lu", f1);
 
 		t = (f1 + f2) % mx;
+		co = f1o + f2o + (f1 + f2) / mx;
 		f1 = f2;
 		f1o = f2o;
 		f2 = t;
